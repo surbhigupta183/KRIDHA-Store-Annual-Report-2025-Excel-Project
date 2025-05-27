@@ -2,8 +2,11 @@
 This project presents a comprehensive Excel-based interactive dashboard created for KRIDHA Store’s annual performance report for the year 2025. The goal of the dashboard is to analyze and visualize sales and order data across multiple dimensions, offering stakeholders a quick and intuitive overview of business performance.
 # Project Objectives
 ->Provide a holistic view of KRIDHA Store’s sales and order trends.
+
 ->Enable data-driven decision-making by highlighting top-performing states, channels, customer segments, and categories.
+
 ->Utilize interactive filters (slicers) to allow dynamic exploration of data by month, category, and channel.
+
 ->Showcase proficiency in data cleaning, summarization, and visualization using Microsoft Excel.
 
 # 📈 Key Insights Captured
