@@ -39,3 +39,26 @@ Assists in evaluating channel ROI and planning future partnerships or campaigns.
 High delivery success rate (92%) with minimal cancellations, returns, or refunds.
 
 Demonstrates effective order fulfillment and customer satisfaction.
+
+# 🛠️ Tools & Techniques Used
+Microsoft Excel
+
+Pivot Tables
+
+Pivot Charts (Column, Pie, Bar)
+
+Slicers for dynamic filtering
+
+Custom formatting and layout design
+
+# Data Cleaning
+
+Duplicate removal, consistent formatting
+
+Standardized category and channel names
+
+# Visualization Principles
+
+Clarity, minimalism, and effective use of color
+
+Highlighting key comparisons (e.g., gender, region, time)
